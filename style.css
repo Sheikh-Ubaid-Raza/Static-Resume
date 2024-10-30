@@ -130,30 +130,6 @@ button:hover {
     }
 }
 
-@media (max-width: 480px) {
-    .resume {
-        box-shadow: none;
-        border-radius: 0;
-    }
-
-    h1 {
-        font-size: 1.5em;
-    }
-
-    h2 {
-        font-size: 1.2em;
-    }
-
-    .profile-picture img {
-        width: 60px;
-        height: 60px;
-    }
-
-    .left-section, .right-section {
-        padding: 10px;
-    }
-}
-
 .fade-in{
     opacity: 0;
     animation: fadeIn 1s ease-in forwards;
